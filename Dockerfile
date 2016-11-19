@@ -1,6 +1,5 @@
 # Pull base image.
-#FROM bigboards/base-client-__arch__
-FROM bigboards/base-client-x86_64
+FROM bigboards/base-client-__arch__
 
 MAINTAINER bigboards
 USER root
